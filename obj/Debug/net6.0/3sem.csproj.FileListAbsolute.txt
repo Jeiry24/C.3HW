@@ -1,0 +1,15 @@
+X:\GEEKBRAINS\C#\3sem\bin\Debug\net6.0\3sem.exe
+X:\GEEKBRAINS\C#\3sem\bin\Debug\net6.0\3sem.deps.json
+X:\GEEKBRAINS\C#\3sem\bin\Debug\net6.0\3sem.runtimeconfig.json
+X:\GEEKBRAINS\C#\3sem\bin\Debug\net6.0\3sem.dll
+X:\GEEKBRAINS\C#\3sem\bin\Debug\net6.0\3sem.pdb
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\3sem.csproj.AssemblyReference.cache
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\3sem.GeneratedMSBuildEditorConfig.editorconfig
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\3sem.AssemblyInfoInputs.cache
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\3sem.AssemblyInfo.cs
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\3sem.csproj.CoreCompileInputs.cache
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\3sem.dll
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\refint\3sem.dll
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\3sem.pdb
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\3sem.genruntimeconfig.cache
+X:\GEEKBRAINS\C#\3sem\obj\Debug\net6.0\ref\3sem.dll
